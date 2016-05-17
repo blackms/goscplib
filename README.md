@@ -1,2 +1,1 @@
-goscplib
-========
+# goscplib
